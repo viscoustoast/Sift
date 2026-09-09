@@ -11,7 +11,6 @@ Open a terminal program, and navigate to the folder you want the directory to be
 ```bash
 git clone https://github.com/viscoustoast/Sift
 cd Sift
-git switch main
 ```
 
 ## Download the required libraries using the requirements.txt file:
