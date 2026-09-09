@@ -8,9 +8,11 @@ To run the file, ensure Python is downloaded, alongside all necessary Python lib
 Open a terminal program, and navigate to the folder you want the directory to be downloaded into. Realistically, any folder is fine, but try to avoid your `/Downloads` folder, as it gets convoluded fast.
 
 **Then, use the following commands:**
-> ```git clone https://github.com/viscoustoast/Sift
+> ```bash
+git clone https://github.com/viscoustoast/Sift
 cd Sift
-git switch main```
+git switch main
+```
 
 ## Download the required libraries using the requirements.txt file:
 **If you have pip3:**
