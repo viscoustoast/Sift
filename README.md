@@ -31,7 +31,7 @@ Open a terminal program, navigate to the folder the `Sift_Prototype.py` file is 
 python3 Sift_Prototype.py
 ```
 
-# Device requirements:
+## Device requirements:
 - Python and all dependencies downloaded
   - as imported in script, some must be downloaded via pip install, use requirements.txt
 - functioning camera (built-in or external)
